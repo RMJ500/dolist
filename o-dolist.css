@@ -1,0 +1,22 @@
+li{
+  position: relative;
+  padding: 12px 8px 12px 40px;
+  background-color: #eee;
+  font-size: 25px;
+  list-style: none;
+
+}
+.close{
+  display: inline-block;
+  background-color: red;
+  width: 30px;
+  margin-left: 1200px;
+  text-align: center;
+  height: 25px;
+  padding: 0;
+}
+.close:hover{
+  background-color: red;
+  color: white;
+  transform:scale(1.2);
+}
